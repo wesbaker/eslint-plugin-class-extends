@@ -1,5 +1,10 @@
 # eslint-plugin-class-extends
 
+[![Travis](https://img.shields.io/travis/wesbaker/eslint-plugin-class-extends.svg)](https://travis-ci.org/wesbaker/eslint-plugin-class-extends)
+[![David](https://david-dm.org/wesbaker/eslint-plugin-class-extends/status.svg)](https://david-dm.org/wesbaker/eslint-plugin-class-extends)
+[![Coverage Status](https://coveralls.io/repos/github/wesbaker/eslint-plugin-class-extends/badge.svg?branch=master)](https://coveralls.io/github/wesbaker/eslint-plugin-class-extends?branch=master)
+[![Code Climate](https://codeclimate.com/github/wesbaker/eslint-plugin-class-extends/badges/gpa.svg)](https://codeclimate.com/github/wesbaker/eslint-plugin-class-extends)
+
 ESLint rule to prevent extending classes.
 
 ## Installation
