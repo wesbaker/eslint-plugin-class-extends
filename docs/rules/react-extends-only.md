@@ -1,4 +1,4 @@
-# Prevent extending classes besides React.Component and React.PureComponent. (react-extends-onlyrename)
+# Prevent extending classes besides React.Component and React.PureComponent. (react-extends-only)
 
 Javascript is a prototypal inheritance language, but with ES6 it now has
 classes. Classes are mostly syntactic sugar, but React has taken to using them
