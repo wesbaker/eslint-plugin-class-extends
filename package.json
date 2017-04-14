@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-class-extends",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint rule to prevent extending classes.",
   "keywords": [
     "eslint",
