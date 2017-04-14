@@ -43,4 +43,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* [react-extends-only](doc/rules/react-extends-only.md)
+* [react-extends-only](docs/rules/react-extends-only.md)
