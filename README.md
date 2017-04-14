@@ -35,7 +35,6 @@ Add `class-extends` to the plugins section of your `.eslintrc` configuration fil
 }
 ```
 
-
 Then configure the rules you want to use under the rules section.
 
 ```json
@@ -43,6 +42,21 @@ Then configure the rules you want to use under the rules section.
     "rules": {
         "class-extends/react-extends-only": 2
     }
+}
+```
+
+## Recommended
+
+This plugin exports a `recommended` configuration that includes the one rule to
+prevent extending classes other than `[React.]Component` and
+`[React.]PureComponent`.
+
+To enable this configuration use the `extends` property in your `.eslintrc`
+config file:
+
+```json
+{
+  "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:class-extends/recommended"]
 }
 ```
 
