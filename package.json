@@ -23,7 +23,7 @@
   "homepage": "https://github.com/wesbaker/eslint-plugin-class-extends",
   "bugs": "https://github.com/wesbaker/eslint-plugin-class-extends/issues",
   "dependencies": {
-    "requireindex": "~1.1.0"
+    "requireindex": "~1.2.0"
   },
   "devDependencies": {
     "coveralls": "2.13.3",
