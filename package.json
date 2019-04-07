@@ -29,7 +29,7 @@
     "coveralls": "3.0.3",
     "eslint": "5.16.0",
     "istanbul": "0.4.5",
-    "mocha": "6.1.0"
+    "mocha": "6.1.1"
   },
   "engines": {
     "node": ">=0.10.0"
