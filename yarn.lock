@@ -251,9 +251,9 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
-coveralls@3.0.12:
-  version "3.0.12"
-  resolved "https://registry.yarnpkg.com/coveralls/-/coveralls-3.0.12.tgz#e5417b7ef9170ad92b40f4024fce25d65ad9c24d"
+coveralls@3.0.13:
+  version "3.0.13"
+  resolved "https://registry.yarnpkg.com/coveralls/-/coveralls-3.0.13.tgz#64d8c99af3b8a771a2e6e5bcdf556c3c5061d29d"
   dependencies:
     js-yaml "^3.13.1"
     lcov-parse "^1.0.0"
