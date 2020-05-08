@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-class-extends",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "ESLint rule to prevent extending classes.",
   "keywords": [
     "eslint",
@@ -32,10 +32,12 @@
     "mocha": "7.1.2"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=10"
   },
   "license": "MIT",
   "renovate": {
-    "extends": ["github>wesbaker/renovate-config"]
+    "extends": [
+      "github>wesbaker/renovate-config"
+    ]
   }
 }
