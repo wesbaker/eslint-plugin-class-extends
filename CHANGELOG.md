@@ -1,0 +1,7 @@
+# Changelog
+
+## [1.0.0]
+
+- Drop support for Node v8.x
+
+[1.0.0]: https://github.com/wesbaker/eslint-plugin-class-extends/compare/v0.0.6...v1.0.0
