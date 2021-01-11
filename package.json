@@ -34,10 +34,5 @@
   "engines": {
     "node": ">=10"
   },
-  "license": "MIT",
-  "renovate": {
-    "extends": [
-      "github>wesbaker/renovate-config"
-    ]
-  }
+  "license": "MIT"
 }
