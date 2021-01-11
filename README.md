@@ -1,10 +1,5 @@
 # eslint-plugin-class-extends
 
-[![Travis](https://img.shields.io/travis/wesbaker/eslint-plugin-class-extends.svg)](https://travis-ci.org/wesbaker/eslint-plugin-class-extends)
-[![David](https://david-dm.org/wesbaker/eslint-plugin-class-extends/status.svg)](https://david-dm.org/wesbaker/eslint-plugin-class-extends)
-[![Coverage Status](https://coveralls.io/repos/github/wesbaker/eslint-plugin-class-extends/badge.svg?branch=master)](https://coveralls.io/github/wesbaker/eslint-plugin-class-extends?branch=master)
-[![Code Climate](https://codeclimate.com/github/wesbaker/eslint-plugin-class-extends/badges/gpa.svg)](https://codeclimate.com/github/wesbaker/eslint-plugin-class-extends)
-
 ESLint rule to prevent extending classes.
 
 ## Installation
@@ -29,9 +24,7 @@ Add `class-extends` to the plugins section of your `.eslintrc` configuration fil
 
 ```json
 {
-    "plugins": [
-        "class-extends"
-    ]
+  "plugins": ["class-extends"]
 }
 ```
 
@@ -39,9 +32,9 @@ Then configure the rules you want to use under the rules section.
 
 ```json
 {
-    "rules": {
-        "class-extends/react-extends-only": 2
-    }
+  "rules": {
+    "class-extends/react-extends-only": 2
+  }
 }
 ```
 
@@ -56,10 +49,14 @@ config file:
 
 ```json
 {
-  "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:class-extends/recommended"]
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:class-extends/recommended"
+  ]
 }
 ```
 
 ## Supported Rules
 
-* [react-extends-only](docs/rules/react-extends-only.md)
+- [react-extends-only](docs/rules/react-extends-only.md)
