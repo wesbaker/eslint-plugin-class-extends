@@ -25,7 +25,7 @@
     "requireindex": "~1.2.0"
   },
   "devDependencies": {
-    "eslint": "8.23.1",
+    "eslint": "8.24.0",
     "jest": "^28.1.2"
   },
   "engines": {
