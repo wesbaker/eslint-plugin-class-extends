@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-class-extends",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "ESLint rule to prevent extending classes.",
   "keywords": [
     "eslint",
@@ -26,10 +26,10 @@
   },
   "devDependencies": {
     "eslint": "8.24.0",
-    "jest": "^28.1.2"
+    "jest": "^29.0.3"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "license": "MIT"
 }
